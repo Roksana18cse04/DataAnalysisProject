@@ -33,8 +33,8 @@ Helps analyze the changing skill demands in the job market and align training ef
 Together, these datasets provide a comprehensive view of job market trends, enabling us to analyze the demand for certain skills, job categories, and locations across different regions.
 
 # Data Collection
-bdjobs DataSet
-careerjet DataSet
-skilljob DataSet
+- bdjobs DataSet
+- careerjet DataSet
+- skilljob DataSet
 
-[ ]
+
